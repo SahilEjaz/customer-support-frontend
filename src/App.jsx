@@ -2,7 +2,6 @@ import './index.css'
 import {Navigate, Route, Routes }from "react-router-dom"
 import Login from './pages/auth/Login'
 import Register from './pages/auth/Register'
-import Sidebar from './components/layout/Sidebar'
 import DashboardLayout from'./components/layout/DashboardLayout'
 import Dashboard from './pages/customer/Dashboard'
 import CreateTicket from './pages/customer/CreateTicket'
